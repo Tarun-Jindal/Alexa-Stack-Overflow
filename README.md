@@ -1,5 +1,12 @@
 # Alexa-Stack-Overflow
 Alexa skill for Stack overflow
+## Inspiration
+
+As the time passes by we are getting more advanced and what happens in future depends on the outcome of the contributions that people will make in the present. We are living in the world in which we are having voice assistant in our pockets, which helps in simplifying our day to day life. I also like when things can be done easily without any hassle. Being a programmer I wanted to solve some problems faced during programming. And I thought why cant voice assistant help us with programming related query, why cant we ask Alexa how to solve the programming error that I am facing.
+
+## What it does
+
+The aim of this Alexa skillis to provide solutions to the programmers over voice. All they have to do is ask Alexa their programming query and Alexa will search for answer to the programming query and provide the user with proper answer. To get started with the skill. What the skill currently does is it takes in the query and Bing search the query and find the links related to stack overflow and then using the info of the link parameters it do an api call to the stack overflow to get info about that posted question of the stack overflow. Then in the lambda function I am making a list of questions related to the query. And then the lambda function first confirms whether the question on the stack overflow is related to his query or not. If not related then it provides the next question and it goes on till the list of questions exhaust. If the question is related to the query that the user asked then it will tell the accepted answer in the answer thread and user will be provided this answer and the code included in the answer as a response card to his Alexa app. Then the user will be provided with an option whether or not he/she wants to hear the comments to the answer that was just provided or it wants to repeat the answer. If yes then the Alexa provide the comment and if no the Alexa will ask whether he/she wants to hear the next best answer in the answer list. The next best answer is considered on the basis of up votes to the answer.
 
 # Link to the Skill on Amazon Skill store
 
