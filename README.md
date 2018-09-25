@@ -29,13 +29,13 @@ Ex : python lambda_function.py 2
 
 ## Description of Test Cases
 
-test_case[0] - Launch Request "Alexa, open stack overflow"
-test_case[1] - Help Intent "Alexa, ask stack overflow help"
-test_case[2] - Library Install request "Alexa, ask stack overflow how to install opencv in python"
-test_case[3] - When Alexa ask to coinfirm the question and user responds "no"
-test_case[4] - When Alexa ask to coinfirm the question and user responds "yes"
-test_case[5] - When Alexa provide answer to the question and user responds "repeat"
-test_case[6] - When user says yes to provide comments to the answer "yes"
-test_case[7] - When Alexa asks user whether or not to provide second best answer to the question and user responds "yes"
-test_case[8] - Error Intent "Alexa, ask stack overflow ehat is identation error in python"
-test_case[9] - Comparision Intent "Alexa, ask stack overflow which is superior Python or C++"
+test_case[0] - Launch Request "Alexa, open stack overflow"<br />
+test_case[1] - Help Intent "Alexa, ask stack overflow help"<br />
+test_case[2] - Library Install request "Alexa, ask stack overflow how to install opencv in python"<br />
+test_case[3] - When Alexa ask to coinfirm the question and user responds "no"<br />
+test_case[4] - When Alexa ask to coinfirm the question and user responds "yes"<br />
+test_case[5] - When Alexa provide answer to the question and user responds "repeat"<br />
+test_case[6] - When user says yes to provide comments to the answer "yes"<br />
+test_case[7] - When Alexa asks user whether or not to provide second best answer to the question and user responds "yes"<br />
+test_case[8] - Error Intent "Alexa, ask stack overflow ehat is identation error in python"<br />
+test_case[9] - Comparision Intent "Alexa, ask stack overflow which is superior Python or C++"<br />
