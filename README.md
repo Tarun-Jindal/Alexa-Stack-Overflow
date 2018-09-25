@@ -46,3 +46,18 @@ test_case[6] - When user says yes to provide comments to the answer "yes"<br />
 test_case[7] - When Alexa asks user whether or not to provide second best answer to the question and user responds "yes"<br />
 test_case[8] - Error Intent "Alexa, ask stack overflow ehat is identation error in python"<br />
 test_case[9] - Comparision Intent "Alexa, ask stack overflow which is superior Python or C++"<br />
+
+CONTRIBUTION
+------------
+The work flow is the same as that of any other repository.
+
+1.Fork / clone the repository.  
+2.Create a new branch , say `my-changes` and make your changes in this branch.  
+3.Commit your changes and send a Pull request (PR) to this repository.  
+
+Active contributors would be rewarded with the tag of "Collabrators".  
+Bug fixes , Issues , Issue solutions , Optimizations & Enhancements are always welcome.
+
+LICENSE
+-------
+The MIT LICENSE - [Yash Gaurkar](http://github.com/mr-yamraj) - All Rights Reserved.
